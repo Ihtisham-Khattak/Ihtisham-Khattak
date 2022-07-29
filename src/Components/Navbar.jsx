@@ -64,7 +64,7 @@ function Navbar() {
           <li className="w-[100px] h-[50px] flex justify-between item-center ml-[-70px] duration-300 hover:ml-[-10px] bg-blue-500">
             <a
               className="flex justify-between items-center w-full h-[40px]  py-5 text-lg font-bold px-[-1]"
-              href="https://www.linkedin.com/in/ihtisham-khattak-6661641a5/"
+              href="https://www.linkedin.com/in/ihtisham-khattak-6661641a5/" target="_blank" rel="noopener noreferrer"
             >
               {" "}
               LikedIn <FaLinkedinIn />
@@ -73,7 +73,7 @@ function Navbar() {
           <li className="w-[100px] h-[50px] flex justify-between item-center ml-[-70px] duration-300 hover:ml-[-10px] bg-[#000000]">
             <a
               className="flex justify-between items-center w-full h-[30px]  py-5 text-lg font-bold px-[-1]"
-              href="https://github.com/Ihtisham-Khattak"
+              href="https://github.com/Ihtisham-Khattak" target="_blank" rel="noopener noreferrer"
             >
               {" "}
               Github <FaGithub />
@@ -89,11 +89,8 @@ function Navbar() {
             </a>
           </li>
           <li className="w-[105px] h-[50px] flex justify-between item-center ml-[-75px] duration-300 hover:ml-[-10px] bg-[#565f69]">
-            <a
-              className="flex justify-between items-center w-full h-[25px]  py-5 text-lg font-bold px-[-1]"
-              href="/"
+            <a href="/"  className="flex justify-between items-center w-full h-[25px]  py-5 text-lg font-bold px-[-1]"
             >
-              {" "}
               Resume <GoPerson />
             </a>
           </li>
