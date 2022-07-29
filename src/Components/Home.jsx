@@ -14,9 +14,10 @@ const Home = () => {
     </p>
 
     <div>
-      <button className=' group text-white border-2 px-6 py-2 my-2 flex font-bold justiy-between items-center hover:bg-pink-600 hover:border-pink-600' type='submit'> View Work 
+      <button className=' group text-white border-2 px-6 py-2 my-2 flex font-bold justiy-between items-center hover:bg-pink-600 hover:border-pink-600' type='submit'> 
+      
 
-        <span className='group-hover:rotate-90 duration-300'> <HiArrowNarrowRight className='ml-3' /> </span>
+        <span className='group-hover:rotate-360 duration-300'> <HiArrowNarrowRight className='ml-3' /> </span>
 
       </button>
     </div>
