@@ -2,6 +2,7 @@ import React from "react";
 import CruptoCurrency from '../assets/cryptoCurrency.png'
 import Pagination from '../assets/Pagination.png'
 import ReactTodo from '../assets/ReactTodo.png'
+import TypeScriptReact from '../assets/TypeScriptReact.jpg'
 
 function Work() {
   return (
@@ -13,7 +14,7 @@ function Work() {
         </div>
 
 {/* Container For Portfolio  */}
-        <div className="grid sm:gird-cols-2 md:grid-cols-3 gap-4 ">
+        <div className="grid sm:gird-cols-3 md:grid-cols-3 gap-4 ">
 
           {/* Grid 1 Item */}
           <div style={{ backgroundImage: `url(${CruptoCurrency})`}}  className="content-div shadow-lg shadow-[#0401c6] group container rounded-md flex items-center justify-center mx-auto">
@@ -56,6 +57,22 @@ function Work() {
                 
                 <div className="pt-8 text-center"> 
                   <a href="https://react-website-port.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <button className="text-center font-bold py-3 px-4 m-2 text-lg rounded-lg bg-white text-gray">Demo</button> </a>
+                  {/* <a href="/"> <button>Code </button> </a> */}
+                  
+                </div>
+              </div>
+          </div>
+
+            {/* Grid 4 Item */}
+
+            <div style={{ backgroundImage: `url(${TypeScriptReact})`}}  className="content-div shadow-lg shadow-[#0401c6] group container rounded-md flex items-center justify-center mx-auto">
+              
+              {/* Hover Effect */}
+              <div className="opacity-0 group hover:opacity-100" >
+                <span className="text-white font-bold text-2xl tracking-wider">ReactJS Typescript ToDO </span>
+                
+                <div className="pt-8 text-center"> 
+                  <a href="https://react-todo-port.netlify.app/" target="_blank" rel="noopener noreferrer"> <button className="text-center font-bold py-3 px-4 m-2 text-lg rounded-lg bg-white text-gray">Demo</button> </a>
                   {/* <a href="/"> <button>Code </button> </a> */}
                   
                 </div>
