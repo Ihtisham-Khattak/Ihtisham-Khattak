@@ -14,13 +14,13 @@
 #### ⚡ Fun fact I love coding and I'm a quick learner.
 
 ### `🚀 Technologies I know`
-#### 🖍 HTML5, CSS3, Javascript, ReactJS, NodeJS, TailwindCSS
+#### 💡 HTML5, CSS3, Javascript, ReactJS, NodeJS, TailwindCSS
 #### 🖍 MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
-#### 🖍 Styling (Tailwindcss, Material-UI, Bootstrap, Css, Styled components)
+#### 💡 Styling (Tailwindcss, Material-UI, Bootstrap, Css, Styled components)
 #### 🖍 Databases (MongoDB)
-#### 🖍 Project Management (git, Github, Freedcamp)
+#### 💡 Project Management (git, Github, Freedcamp)
 #### 🖍 Design (Photoshop, Illustrator Canva)
-#### 🖍 Deployment (Heroku, Netlify, Github-Pages)
+#### 💡 Deployment (Heroku, Netlify, Github-Pages)
 
 
 ### `Connect With Me`
