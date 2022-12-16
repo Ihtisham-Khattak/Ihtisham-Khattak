@@ -1,6 +1,6 @@
 # Ihtisham Khattak (Javascript, ReactJS Developer)
 
-![Dark Blue Modern Discount Banner](https://user-images.githubusercontent.com/86098390/193516026-c2776ccd-040e-438c-a0df-5baf6869d87a.jpg)
+[![Dark Blue Modern Discount Banner](https://user-images.githubusercontent.com/86098390/193516026-c2776ccd-040e-438c-a0df-5baf6869d87a.jpg)](https://www.canva.com/design/DAFN9hVu8kM/MH7x81XXSA9WzBMppFf1sw/edit?utm_content=DAFN9hVu8kM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### `Hi 🙋‍♂️, I'm Ihtisham Khattak`
 ### I'm a passionate Frontend Developer and Freelancer from Pakistan
