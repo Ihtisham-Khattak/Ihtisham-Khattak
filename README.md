@@ -1,9 +1,10 @@
 # Ihtisham Khattak (Javascript, ReactJS Developer)
 
-[![Dark Blue Modern Discount Banner](https://user-images.githubusercontent.com/86098390/193516026-c2776ccd-040e-438c-a0df-5baf6869d87a.jpg)](https://www.canva.com/design/DAFN9hVu8kM/MH7x81XXSA9WzBMppFf1sw/edit?utm_content=DAFN9hVu8kM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Dark Blue Modern Discount Banner](https://user-images.githubusercontent.com/86098390/208010254-f0a64c1c-ad0a-4f93-b07a-cb033314e57d.png)
+
 
 ### `Hi 🙋‍♂️, I'm Ihtisham Khattak`
-### I'm a passionate Frontend Developer and Freelancer from Pakistan
+### I'm a passionate Frontend Developer and Freelancer.
 
 ### `🙋‍♂️ About Me`
 #### 🎓 Graduated in BS-Software Engineering with the appreciatible FYP
@@ -18,7 +19,7 @@
 #### 🖍 MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
 #### 💡 Styling (Tailwindcss, Material-UI, Bootstrap, Css, Styled components)
 #### 🖍 Databases (MongoDB)
-#### 💡 Project Management (git, Github, Freedcamp)
+#### 💡 Project Management (git, Github, Freedcamp, Jira, Trello, Slack)
 #### 🖍 Design (Photoshop, Illustrator Canva)
 #### 💡 Deployment (Heroku, Netlify, Github-Pages)
 
