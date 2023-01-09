@@ -11,7 +11,7 @@
 #### 👨‍💻 All of my projects are available at My Portfolio
 #### 🤠 Coded 2000+ hours
 #### ⭐ 10+ Repositories on GitHub
-#### 📫 How to reach me ikpashteen1@gmail.com
+#### 📫 How to reach me ihtishamkhattak9504@gmail.com
 #### ⚡ Fun fact I love coding and I'm a quick learner.
 
 ### `🚀 Technologies I know`
@@ -26,4 +26,4 @@
 
 ### `Connect With Me`
 #### 1️⃣ https://www.linkedin.com/in/ihtisham-khattak-6661641a5/
-#### 2️⃣ https://ihtisham-khattak.herokuapp.com/https
+#### 2️⃣ [https://ihtisham-khattak.herokuapp.com/https](https://ihtishamkhattak.netlify.app/)
