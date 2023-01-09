@@ -16,12 +16,12 @@
 
 ### `🚀 Technologies I know`
 #### 💡 HTML5, CSS3, Javascript, ReactJS, NodeJS, TailwindCSS
-#### 🖍 MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
-#### 💡 Styling (Tailwindcss, Material-UI, Bootstrap, Css, Styled components)
-#### 🖍 Databases (MongoDB)
-#### 💡 Project Management (git, Github, Freedcamp, Jira, Trello, Slack)
-#### 🖍 Design (Photoshop, Illustrator Canva)
-#### 💡 Deployment (Heroku, Netlify, Github-Pages)
+#### 🚧 MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+#### 🪅 Styling (Tailwindcss, Material-UI, Bootstrap, Css, Styled components)
+#### 🗃️ Databases (MongoDB)
+#### 🧑‍💼 Project Management (git, Github, Freedcamp, Jira, Trello, Slack)
+#### 🖼️ Design (Photoshop, Illustrator Canva)
+#### 👨‍💻 Deployment (Heroku, Netlify, Github-Pages)
 
 
 ### `Connect With Me`
