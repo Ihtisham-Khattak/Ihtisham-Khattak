@@ -1,8 +1,5 @@
 # Ihtisham Khattak (Javascript, ReactJS Developer)
 
-![Dark Blue Modern Discount Banner](https://user-images.githubusercontent.com/86098390/208010254-f0a64c1c-ad0a-4f93-b07a-cb033314e57d.png)
-
-
 ### `Hi 🙋‍♂️, I'm Ihtisham Khattak`
 ### I'm a passionate Frontend Developer and Freelancer.
 
