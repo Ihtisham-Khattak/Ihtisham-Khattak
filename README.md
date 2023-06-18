@@ -23,4 +23,4 @@
 
 ### `Connect With Me`
 #### 1️⃣ https://www.linkedin.com/in/ihtisham-khattak-6661641a5/
-#### 2️⃣ [https://ihtisham-khattak.herokuapp.com/https](https://ihtishamkhattak.netlify.app/)
+#### 2️⃣ https://ihtisham-khattak.netlify.app/
