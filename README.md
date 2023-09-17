@@ -1,7 +1,7 @@
-# Ihtisham Khattak (Javascript, ReactJS Developer)
+# Ihtisham Khattak (Javascript, ReactJS Developer, & Cypress Automation)
 
 ### `Hi 🙋‍♂️, I'm Ihtisham Khattak`
-### I'm a passionate Frontend Developer and Freelancer.
+### I'm a passionate Frontend Developer, Testing Automation and Freelancer.
 
 ### `🙋‍♂️ About Me`
 #### 🎓 Graduated in BS-Software Engineering with the appreciatible FYP
@@ -13,7 +13,7 @@
 
 ### `🚀 Technologies I know`
 #### 💡 HTML5, CSS3, Javascript, ReactJS, NodeJS, TailwindCSS
-#### 🚧 MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+#### 🚧 Testing Automation (Cypress, K6, Jmeter)
 #### 🪅 Styling (Tailwindcss, Material-UI, Bootstrap, Css, Styled components)
 #### 🗃️ Databases (MongoDB)
 #### 🧑‍💼 Project Management (git, Github, Freedcamp, Jira, Trello, Slack)
