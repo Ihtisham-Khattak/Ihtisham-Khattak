@@ -22,7 +22,7 @@
 
 
 ### `Connect With Me`
-####Let’s Build Quality Together
-####Whether you are a startup or a growing team, I help you ship with confidence.
-####📩 Ready to improve your product quality? Let’s connect.
-####🔗 [Ihtisham Khattak LinkedIn]([https://www.linkedin.com/in/ihtisham-khattak-6661641a5/])
+#### Let’s Build Quality Together
+#### Whether you are a startup or a growing team, I help you ship with confidence.
+#### 📩 Ready to improve your product quality? Let’s connect.
+#### 🔗 [Ihtisham Khattak LinkedIn]([https://www.linkedin.com/in/ihtisham-khattak-6661641a5/])
