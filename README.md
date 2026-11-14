@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ihtisham%20Khattak&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20AI%20%26%20LLM%20Testing&descSize=20&descAlignY=60&animation=fadeIn" alt="Ihtisham Khattak — QA Engineer" width="100%" />
+## 🤝 "Ihtisham Khattak — QA Engineer"
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2EAD33&center=true&vCenter=true&width=720&lines=Breaking+software+before+users+do;Playwright+%26+Cypress+end-to-end+automation;API%2C+integration+%26+k6+performance+testing;Hallucination+%26+context-retention+testing+for+LLMs;Quality+built+into+every+sprint" alt="Typing tagline" />
@@ -196,14 +196,8 @@ test('Ihtisham Khattak', async () => {
 ## 📈 GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <br/>
-
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
 </div>
 
 ---
